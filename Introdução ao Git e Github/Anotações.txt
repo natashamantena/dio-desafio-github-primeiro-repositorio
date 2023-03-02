@@ -1,0 +1,12 @@
+Resumo do projeto: criar um arquivos com as anotações referentes ao curso de Introdução ao Git/Github.
+
+Anotações:
+- Principais comandos do git:
+	cd = mudar de diretório
+	ls = listar o conteúdo presente naquele diretório
+	mkdir = criar um novo diretório
+	rm - rf = remover um diretório
+	git init = criar um novo repositório
+	git add * = adicionar todos os arquivos no repositório para serem comitados
+	git commit -m "com a mensagem que deseja-se incluir como descrição da commit" = comita os arquivos
+	git push origin main = para mandar o repositório alterado para a nuvem (Github)
